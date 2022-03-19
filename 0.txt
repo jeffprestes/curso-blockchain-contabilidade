@@ -1,0 +1,6 @@
+{
+  "description": "Terreno em Jarinu no Distrito Industrial. Endereço: Avenida Brasil, 2000.", 
+  "external_url": "https://cartoriodeimoveisx.com.br/matricula/3245454", 
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
+  "name": "Imovel Fabrica Chocolate"
+}
